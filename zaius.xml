@@ -8164,7 +8164,7 @@
 	</attribute>
 	<attribute>
 		<id>BOOT_FREQ_MHZ</id>
-		<default>2400</default>
+		<default>2000</default>
 	</attribute>
 	<attribute>
 		<id>BRAZOS_RX_FIFO_OVERRIDE</id>
@@ -12848,11 +12848,11 @@
 	</attribute>
 	<attribute>
 		<id>BOOT_FREQ_MHZ</id>
-		<default>2400</default>
+		<default>2000</default>
 	</attribute>
 	<attribute>
 		<id>BOOT_FREQ_MULT</id>
-		<default>144</default>
+		<default>120</default>
 	</attribute>
 	<attribute>
 		<id>BRANCH_PIBMEM_ADDR</id>
