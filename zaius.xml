@@ -8978,10 +8978,6 @@
 		<default>0x89000000</default>
 	</attribute>
 	<attribute>
-		<id>HTMGT_INTERNAL_FLAGS</id>
-		<default></default>
-	</attribute>
-	<attribute>
 		<id>HTMGT_SAFEMODE</id>
 		<default></default>
 	</attribute>
