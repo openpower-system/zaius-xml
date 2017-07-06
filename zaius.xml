@@ -2348,6 +2348,17 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>3</value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/apss_fault_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -2393,8 +2404,12 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/dimmconn-16/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>20</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM16</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -2403,9 +2418,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-17/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>21</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM17</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2414,9 +2433,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-18/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>22</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM18</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2425,9 +2448,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-19/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>23</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM19</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2436,9 +2463,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-20/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>24</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM20</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2447,9 +2478,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-21/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>25</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM21</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2458,9 +2493,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-22/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>26</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM22</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2469,9 +2508,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-23/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>27</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM23</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2480,9 +2523,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-24/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>28</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM24</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2491,9 +2538,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-25/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>29</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM25</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2502,9 +2553,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-26/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>30</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM26</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2513,9 +2568,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-27/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>31</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM27</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2524,9 +2583,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-28/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>32</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM28</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2535,9 +2598,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-29/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>33</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM29</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2546,9 +2613,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-30/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>34</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM30</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2557,9 +2628,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-31/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>35</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM31</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2568,9 +2643,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-0/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>4</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM0</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2579,9 +2658,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>5</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM1</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2590,9 +2673,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>6</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM2</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2601,9 +2688,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>7</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM3</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2612,9 +2703,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>8</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM4</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2623,9 +2718,43 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>9</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
+        <value>DIMM5</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
         <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
+        <id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>10</value>
+	</property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>DIMM6</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
+        <id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>11</value>
+	</property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>DIMM7</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2634,9 +2763,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-8/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>12</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM8</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2645,9 +2778,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-9/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>13</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM9</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2656,9 +2793,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-10/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>14</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM10</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2667,9 +2808,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-11/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>15</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM11</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2678,9 +2823,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-12/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>16</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM12</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2689,9 +2838,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-13/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>17</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM13</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2700,9 +2853,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-14/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>18</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM14</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -2711,9 +2868,13 @@
 </globalSetting>
 <globalSetting>
         <id>/sys-0/node-0/motherboard-0/dimmconn-15/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>19</value>
+	</property>
         <property>
         <id>FRU_NAME</id>
-        <value></value>
+        <value>DIMM15</value>
         </property>
         <property>
         <id>IPMI_INSTANCE</id>
@@ -3879,17 +4040,6 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-0</id>
-	<property>
-	<id>FRU_NAME</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-0/ddr4</id>
 	<property>
 	<id>DIRECTION</id>
@@ -3956,17 +4106,6 @@
 	<id>/sys-0/node-0/motherboard-0/dimmconn-7</id>
 	<property>
 	<id>CONNECTOR_TYPE</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-0</id>
-	<property>
-	<id>FRU_NAME</id>
 	<value></value>
 	</property>
 	<property>
@@ -5297,6 +5436,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CPU0</value>
+	</property>
+	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
 	</property>
@@ -5325,6 +5472,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq0/ex0/core0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CORE0</value>
+	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5366,6 +5521,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq0/ex0/core1</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CORE1</value>
+	</property>
+	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
 	</property>
@@ -5404,14 +5567,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq0/ex1</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq0/ex1/core2</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CORE2</value>
+	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5453,6 +5617,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq0/ex1/core3</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CORE3</value>
+	</property>
+	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
 	</property>
@@ -5491,21 +5663,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq1</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq1/ex2</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq1/ex2/core4</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CORE4</value>
+	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5547,6 +5713,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq1/ex2/core5</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CORE5</value>
+	</property>
+	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
 	</property>
@@ -5585,6 +5759,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq1/ex3/core6</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE6</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq1/ex3/core6/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5619,6 +5808,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq1/ex3/core7</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>1</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CORE7</value>
+	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5658,6 +5855,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq2/ex4/core8</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE8</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq2/ex4/core8/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5692,6 +5904,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq2/ex4/core9</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE9</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5731,6 +5951,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq2/ex5/core10</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE10</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq2/ex5/core10/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5764,6 +5999,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq2/ex5/core11</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE11</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq2/ex5/core11/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5795,6 +6045,21 @@
 	<id>IPMI_SENSOR_ID</id>
 	<value>0x43</value>
 	</property>
+</globalSetting>
+<globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq3/ex6/core12</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE12</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq3/ex6/core12/cpucore_freq_sensor</id>
@@ -5831,6 +6096,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq3/ex6/core13</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE13</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5870,14 +6143,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq3/ex7</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq3/ex7/core14</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE14</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5918,6 +6192,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq3/ex7/core15</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE15</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5957,11 +6239,19 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq4</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq4/ex8/core16</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE16</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq4/ex8/core16/cpucore_freq_sensor</id>
@@ -5998,6 +6288,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq4/ex8/core17</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE17</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6037,6 +6335,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq4/ex9/core18</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE18</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq4/ex9/core18/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6071,6 +6384,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq4/ex9/core19</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE19</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6110,6 +6431,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq5/ex10/core20</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE20</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq5/ex10/core20/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6144,6 +6480,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq5/ex10/core21</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE21</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6183,6 +6527,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq5/ex11/core22</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE22</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq5/ex11/core22/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6217,6 +6576,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/eq5/ex11/core23</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE23</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6638,6 +7005,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/occ</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>1</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>OCC0</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_l/occ/occ_active_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
@@ -6649,6 +7031,28 @@
 	<property>
 	<id>CONNECTOR_TYPE</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0</id>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>2</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>CPU1</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6676,6 +7080,21 @@
 	<id>IPMI_SENSOR_ID</id>
 	<value>0x70</value>
 	</property>
+</globalSetting>
+<globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq0/ex0/core0</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE24</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq0/ex0/core0/cpucore_freq_sensor</id>
@@ -6712,6 +7131,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq0/ex0/core1</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE25</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6751,14 +7178,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq0/ex1</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq0/ex1/core2</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE26</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6799,6 +7227,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq0/ex1/core3</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE27</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6838,21 +7274,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq1</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq1/ex2</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq1/ex2/core4</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE28</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6893,6 +7323,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq1/ex2/core5</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE29</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6932,14 +7370,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq1/ex3</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq1/ex3/core6</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE30</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -6980,6 +7419,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq1/ex3/core7</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE31</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7019,21 +7466,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq2</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq2/ex4</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq2/ex4/core8</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE32</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7074,6 +7515,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq2/ex4/core9</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE33</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7113,14 +7562,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq2/ex5</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq2/ex5/core10</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE34</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7161,6 +7611,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq2/ex5/core11</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE35</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7200,18 +7658,19 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex6</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex6/core12</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE36</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex6/core12/cpucore_freq_sensor</id>
@@ -7248,6 +7707,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex6/core13</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE37</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7287,14 +7754,15 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex7</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex7/core14</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE38</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7334,6 +7802,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex7/core15</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE39</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq3/ex7/core15/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -7367,18 +7850,19 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
-</globalSetting>
-<globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex8</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex8/core16</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE40</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex8/core16/cpucore_freq_sensor</id>
@@ -7415,6 +7899,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex8/core17</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE41</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7454,11 +7946,19 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex9</id>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex9/core18</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE42</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex9/core18/cpucore_freq_sensor</id>
@@ -7494,6 +7994,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex9/core19</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE43</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq4/ex9/core19/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -7525,6 +8040,21 @@
 	<id>IPMI_SENSOR_ID</id>
 	<value>0xAB</value>
 	</property>
+</globalSetting>
+<globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq5/ex10/core20</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE44</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq5/ex10/core20/cpucore_freq_sensor</id>
@@ -7560,6 +8090,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq5/ex10/core21</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE45</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq5/ex10/core21/cpucore_freq_sensor</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -7591,6 +8136,21 @@
 	<id>IPMI_SENSOR_ID</id>
 	<value>0xB1</value>
 	</property>
+</globalSetting>
+<globalSetting>
+        <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq5/ex11/core22</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE46</value>
+        </property>
+        <property>
+        <id>IPMI_INSTANCE</id>
+        <value></value>
+        </property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq5/ex11/core22/cpucore_freq_sensor</id>
@@ -7627,6 +8187,14 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/eq5/ex11/core23</id>
+        <property>
+        <id>FRU_ID</id>
+        <value>2</value>
+        </property>
+        <property>
+        <id>FRU_NAME</id>
+        <value>CORE47</value>
+        </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -7900,6 +8468,21 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/occ</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>2</value>
+	</property>
+	<property>
+	<id>FRU_NAME</id>
+	<value>OCC1</value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
         <id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/p9_proc_l/occ/occ_active_sensor</id>
         <property>
         <id>IPMI_SENSOR_ID</id>
@@ -8156,7 +8739,7 @@
 	</attribute>
 	<attribute>
 		<id>BMC_FRU_ID</id>
-		<default>0</default>
+		<default>36</default>
 	</attribute>
 	<attribute>
 		<id>BOOT_FLAGS</id>
