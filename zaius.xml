@@ -10750,37 +10750,11 @@
 		<default>NA</default>
 	</attribute>
 	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs0 => dimmconn-16/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs0 => dimmconn-18/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca6/</source_path>
 		<source_target>ddr_ch6:cs0</source_target>
-		<dest_path>dimmconn-16/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs1 => dimmconn-17/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca6/</source_path>
-		<source_target>ddr_ch6:cs1</source_target>
-		<dest_path>dimmconn-17/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs0 => dimmconn-18/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca4/</source_path>
-		<source_target>ddr_ch4:cs0</source_target>
 		<dest_path>dimmconn-18/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
@@ -10789,12 +10763,38 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs1 => dimmconn-19/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs1 => dimmconn-19/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca6/</source_path>
+		<source_target>ddr_ch6:cs1</source_target>
+		<dest_path>dimmconn-19/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs0 => dimmconn-16/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca4/</source_path>
+		<source_target>ddr_ch4:cs0</source_target>
+		<dest_path>dimmconn-16/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs1 => dimmconn-17/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca4/</source_path>
 		<source_target>ddr_ch4:cs1</source_target>
-		<dest_path>dimmconn-19/dimm-0/</dest_path>
+		<dest_path>dimmconn-17/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -10854,37 +10854,11 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs0 => dimmconn-24/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs0 => dimmconn-26/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca6/</source_path>
 		<source_target>ddr_ch6:cs0</source_target>
-		<dest_path>dimmconn-24/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs1 => dimmconn-25/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca6/</source_path>
-		<source_target>ddr_ch6:cs1</source_target>
-		<dest_path>dimmconn-25/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs0 => dimmconn-26/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca4/</source_path>
-		<source_target>ddr_ch4:cs0</source_target>
 		<dest_path>dimmconn-26/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
@@ -10893,12 +10867,38 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs1 => dimmconn-27/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca6/ddr_ch6:cs1 => dimmconn-27/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca6/</source_path>
+		<source_target>ddr_ch6:cs1</source_target>
+		<dest_path>dimmconn-27/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs0 => dimmconn-24/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca4/</source_path>
+		<source_target>ddr_ch4:cs0</source_target>
+		<dest_path>dimmconn-24/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca4/ddr_ch4:cs1 => dimmconn-25/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca4/</source_path>
 		<source_target>ddr_ch4:cs1</source_target>
-		<dest_path>dimmconn-27/dimm-0/</dest_path>
+		<dest_path>dimmconn-25/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -10958,37 +10958,11 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs0 => dimmconn-0/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs0 => dimmconn-2/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca5/</source_path>
 		<source_target>ddr_ch5:cs0</source_target>
-		<dest_path>dimmconn-0/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs1 => dimmconn-1/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca5/</source_path>
-		<source_target>ddr_ch5:cs1</source_target>
-		<dest_path>dimmconn-1/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs0 => dimmconn-2/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca7/</source_path>
-		<source_target>ddr_ch7:cs0</source_target>
 		<dest_path>dimmconn-2/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
@@ -10997,12 +10971,38 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs1 => dimmconn-3/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs1 => dimmconn-3/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs2/mca5/</source_path>
+		<source_target>ddr_ch5:cs1</source_target>
+		<dest_path>dimmconn-3/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs0 => dimmconn-0/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca7/</source_path>
+		<source_target>ddr_ch7:cs0</source_target>
+		<dest_path>dimmconn-0/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs1 => dimmconn-1/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/p9_proc_l/mcbist1/mcs3/mca7/</source_path>
 		<source_target>ddr_ch7:cs1</source_target>
-		<dest_path>dimmconn-3/dimm-0/</dest_path>
+		<dest_path>dimmconn-1/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -11062,37 +11062,11 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs0 => dimmconn-8/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs0 => dimmconn-10/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca5/</source_path>
 		<source_target>ddr_ch5:cs0</source_target>
-		<dest_path>dimmconn-8/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs1 => dimmconn-9/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca5/</source_path>
-		<source_target>ddr_ch5:cs1</source_target>
-		<dest_path>dimmconn-9/dimm-0/</dest_path>
-		<dest_target>ddr4</dest_target>
-		<bus_attribute>
-			<id>CLASS</id>
-		<default>BUS</default>
-		</bus_attribute>
-	</bus>
-	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs0 => dimmconn-10/dimm-0/ddr4</bus_id>
-		<bus_type>DDR4</bus_type>
-		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca7/</source_path>
-		<source_target>ddr_ch7:cs0</source_target>
 		<dest_path>dimmconn-10/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
@@ -11101,12 +11075,38 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs1 => dimmconn-11/dimm-0/ddr4</bus_id>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca5/ddr_ch5:cs1 => dimmconn-11/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs2/mca5/</source_path>
+		<source_target>ddr_ch5:cs1</source_target>
+		<dest_path>dimmconn-11/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs0 => dimmconn-8/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca7/</source_path>
+		<source_target>ddr_ch7:cs0</source_target>
+		<dest_path>dimmconn-8/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca7/ddr_ch7:cs1 => dimmconn-9/dimm-0/ddr4</bus_id>
 		<bus_type>DDR4</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-1/module-0/p9_proc_l/mcbist1/mcs3/mca7/</source_path>
 		<source_target>ddr_ch7:cs1</source_target>
-		<dest_path>dimmconn-11/dimm-0/</dest_path>
+		<dest_path>dimmconn-9/dimm-0/</dest_path>
 		<dest_target>ddr4</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
