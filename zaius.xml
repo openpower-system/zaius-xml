@@ -4835,7 +4835,7 @@
 	</property>
 	<property>
 	<id>I2C_ADDRESS</id>
-	<value>0x3E</value>
+	<value>0x3C</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
