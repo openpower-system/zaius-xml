@@ -13312,9 +13312,6 @@
 	<child_id>pec0</child_id>
 	<child_id>pec1</child_id>
 	<child_id>pec2</child_id>
-	<child_id>nvbus0</child_id>
-	<child_id>nvbus1</child_id>
-	<child_id>nvbus2</child_id>
 	<child_id>ppe0</child_id>
 	<child_id>ppe10</child_id>
 	<child_id>ppe11</child_id>
