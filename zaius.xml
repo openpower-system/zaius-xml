@@ -14304,6 +14304,22 @@
 		<default>0,0x00060302031D0000,0x200000000000</default>
 	</attribute>
 	<attribute>
+		<id>OB0_PLL_BUCKET</id>
+		<default>2</default>
+	</attribute>
+	<attribute>
+		<id>OB1_PLL_BUCKET</id>
+		<default>2</default>
+	</attribute>
+	<attribute>
+		<id>OB2_PLL_BUCKET</id>
+		<default>2</default>
+	</attribute>
+	<attribute>
+		<id>OB3_PLL_BUCKET</id>
+		<default>2</default>
+	</attribute>
+	<attribute>
 		<id>OBUS_RATIO_VALUE</id>
 		<default></default>
 	</attribute>
