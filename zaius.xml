@@ -14978,15 +14978,15 @@
 	</attribute>
 	<attribute>
 		<id>PROC_R_DISTLOSS_VCS_UOHM</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>PROC_R_DISTLOSS_VDD_UOHM</id>
 		<default>150</default>
 	</attribute>
 	<attribute>
+		<id>PROC_R_DISTLOSS_VDD_UOHM</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
 		<id>PROC_R_DISTLOSS_VDN_UOHM</id>
-		<default>232</default>
+		<default>50</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_LOADLINE_VCS_UOHM</id>
