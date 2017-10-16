@@ -1899,6 +1899,17 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
+	<id>SYSTEM_RESCLK_DISABLE</id>
+		<enumerator>
+		<name>OFF</name>
+		<value>0x00</value>
+		</enumerator>
+		<enumerator>
+		<name>ON</name>
+		<value>0x01</value>
+		</enumerator>
+</enumerationType>
+<enumerationType>
 	<id>SYSTEM_WOF_DISABLE</id>
 		<enumerator>
 		<name>OFF_SKIP_DD</name>
@@ -10359,8 +10370,8 @@
 		<default>ZAIUS</default>
 	</attribute>
 	<attribute>
-		<id>SYSTEM_RESCLK_ENABLE</id>
-		<default></default>
+		<id>SYSTEM_RESCLK_DISABLE</id>
+		<default>0x00</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_RESCLK_STEP_DELAY</id>
@@ -15156,26 +15167,6 @@
 	<attribute>
 		<id>STOPGPE_BOOT_COPIER_IVPR_OFFSET</id>
 		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>SYSTEM_RESCLK_FREQ_REGIONS</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SYSTEM_RESCLK_FREQ_REGION_INDEX</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SYSTEM_RESCLK_L3_VALUE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SYSTEM_RESCLK_L3_VOLTAGE_THRESHOLD_MV</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SYSTEM_RESCLK_VALUE</id>
-		<default></default>
 	</attribute>
 	<attribute>
 		<id>TDP_RDP_CURRENT_FACTOR</id>
