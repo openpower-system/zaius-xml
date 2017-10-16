@@ -1925,17 +1925,6 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
-	<id>SYSTEM_WOF_ENABLED</id>
-		<enumerator>
-		<name>OFF</name>
-		<value>0x00</value>
-		</enumerator>
-		<enumerator>
-		<name>ON</name>
-		<value>0x01</value>
-		</enumerator>
-</enumerationType>
-<enumerationType>
 	<id>SYS_POLICY_NAME</id>
 		<enumerator>
 		<name>powr-vrm-xml-filenames</name>
@@ -10431,12 +10420,8 @@
 	</attribute>
  	<attribute>
  		<id>SYSTEM_WOF_DISABLE</id>
-		<default>ON</default>
- 	</attribute>
-	<attribute>
-		<id>SYSTEM_WOF_ENABLED</id>
 		<default>OFF</default>
-	</attribute>
+ 	</attribute>
         <attribute>
                 <id>SYSTEM_VDM_DISABLE</id>
                 <default>OFF</default>
