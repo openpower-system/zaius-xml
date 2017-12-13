@@ -474,6 +474,17 @@
 		</enumerator>
 </enumerationType>
 <enumerationType>
+        <id>ENABLE_MEM_EARLY_DATA_SCOM</id>
+                <enumerator>
+                <name>OFF</name>
+                <value>0x0</value>
+                </enumerator>
+                <enumerator>
+                <name>ON</name>
+                <value>0x1</value>
+                </enumerator>
+</enumerationType>
+<enumerationType>
 	<id>ENC_TYPE</id>
 		<enumerator>
 		<name>CEC</name>
@@ -8991,6 +9002,10 @@
 		<id>DUMMY_RW</id>
 		<default>5</default>
 	</attribute>
+        <attribute>
+                <id>ENABLE_MEM_EARLY_DATA_SCOM</id>
+                <default>OFF</default>
+        </attribute>
 	<attribute>
 		<id>EFFECTIVE_EC</id>
 		<default>0x10</default>
