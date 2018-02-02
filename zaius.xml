@@ -138639,7 +138639,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>2</default>
+		<default>20</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -138667,7 +138667,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>2</default>
+		<default>20</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -138683,7 +138683,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x15</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139011,7 +139011,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>4</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139019,7 +139019,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>22</default>
+		<default>16</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139047,7 +139047,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>22</default>
+		<default>16</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139055,7 +139055,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>4</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139063,7 +139063,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x1D</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139201,7 +139201,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>50</default>
+		<default>22989</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139245,7 +139245,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>50</default>
+		<default>22989</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139253,7 +139253,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x1E</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139304,7 +139304,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>3</default>
+		<default>5</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139332,7 +139332,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>3</default>
+		<default>5</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139348,7 +139348,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x16</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139399,7 +139399,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>4</default>
+		<default>6</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139427,7 +139427,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>4</default>
+		<default>6</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139443,7 +139443,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x17</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139494,7 +139494,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>5</default>
+		<default>9</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139522,7 +139522,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>5</default>
+		<default>9</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139538,7 +139538,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x18</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139589,7 +139589,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>6</default>
+		<default>10</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139617,7 +139617,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>6</default>
+		<default>10</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139633,7 +139633,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x19</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139684,7 +139684,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>7</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139712,7 +139712,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>7</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139728,7 +139728,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x1A</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139779,7 +139779,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>8</default>
+		<default>2</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139807,7 +139807,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>8</default>
+		<default>2</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139823,7 +139823,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x1B</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
@@ -139874,7 +139874,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>9</default>
+		<default>11</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -139902,7 +139902,7 @@
 	</attribute>
 	<attribute>
 		<id>FUNCTION_ID</id>
-		<default>9</default>
+		<default>11</default>
 	</attribute>
 	<attribute>
 		<id>FUNCTION_NAME</id>
@@ -139918,7 +139918,7 @@
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_ID</id>
-		<default></default>
+		<default>0x1C</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_SENSOR_NAME_SUFFIX</id>
