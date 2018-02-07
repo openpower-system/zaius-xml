@@ -13376,10 +13376,6 @@
 		<id>MRW_TYPE</id>
 		<default>NA</default>
 	</attribute>
- 	<attribute>
-		<id>NO_APSS_PROC_POWER_VCS_VIO_WATTS</id>
-		<default>35</default>
-	</attribute>
 	<attribute>
 		<id>ORDINAL_ID</id>
 		<default>0xFFFFFFFF</default>
@@ -50757,10 +50753,6 @@
 		<id>MRW_TYPE</id>
 		<default>NA</default>
 	</attribute>
-        <attribute>
-                <id>NO_APSS_PROC_POWER_VCS_VIO_WATTS</id>
-                <default>35</default>
-        </attribute>
 	<attribute>
 		<id>ORDINAL_ID</id>
 		<default>0xFFFFFFFF</default>
