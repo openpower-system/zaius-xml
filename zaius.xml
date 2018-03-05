@@ -139018,7 +139018,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>4</default>
+		<default>3333</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139062,7 +139062,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>4</default>
+		<default>3333</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139208,7 +139208,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>8807</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139252,7 +139252,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>8807</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139303,7 +139303,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>15326</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139347,7 +139347,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>15326</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139398,7 +139398,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>15326</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139442,7 +139442,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>15326</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139493,7 +139493,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>7663</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139537,7 +139537,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>7663</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139588,7 +139588,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>7663</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139632,7 +139632,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>7663</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139683,7 +139683,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>17614</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139727,7 +139727,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>17614</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139778,7 +139778,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>17614</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139822,7 +139822,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>17614</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139873,7 +139873,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>22989</default>
+		<default>17614</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139917,7 +139917,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>22989</default>
+		<default>17614</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
