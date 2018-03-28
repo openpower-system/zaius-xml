@@ -139018,7 +139018,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>3333</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -139030,7 +139030,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-208</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139062,7 +139062,7 @@
 	</attribute>
 	<attribute>
 		<id>GAIN</id>
-		<default>3333</default>
+		<default>10000</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_ENTITY_ID</id>
@@ -139090,7 +139090,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-208</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -139315,7 +139315,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-13</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139375,7 +139375,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-13</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -139410,7 +139410,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139470,7 +139470,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -139505,7 +139505,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-9</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139565,7 +139565,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-9</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -139600,7 +139600,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139612,7 +139612,7 @@
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>CLASS</id>
@@ -139660,7 +139660,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -139695,7 +139695,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-11</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139755,7 +139755,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-11</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -139790,7 +139790,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139850,7 +139850,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-10</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
@@ -139885,7 +139885,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-11</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -139945,7 +139945,7 @@
 	</attribute>
 	<attribute>
 		<id>OFFSET</id>
-		<default>0</default>
+		<default>-11</default>
 	</attribute>
 	<attribute>
 		<id>PIN-NAME</id>
